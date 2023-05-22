@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Modules</string>
+    <string name="back">Back</string>
+    <string name="module_details">Module Details</string>
+    <string name="my_modules">My Modules</string>
+    <string name="c346_android_programming">C346 Android Programming</string>
+    <string name="c349_ipad_programming">C349 iPad Programming</string>
+    <string name="c286_advanced_web_dev_in_net">C286 Advanced Web Dev in .NET</string>
+    <string name="c303_it_project_management">C303 IT Project Management</string>
 </resources>
